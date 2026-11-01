@@ -79,4 +79,13 @@ AI_Data_Annotator_GitHub_Ready/
 - Add a Streamlit dashboard for local deployment.
 
 ## Author
-Add your name, course, institution, and contact details here before publishing.
+**Kolluru Tharun**
+
+- Degree: B.Tech – Artificial Intelligence & Data Science
+- Institution: Parul University, Vadodara
+- Academic Period: 2023–2027
+- Role: Project Developer
+
+### Project Links
+- GitHub: https://github.com/tharun22266
+- Project: https://github.com/tharun22266/AI-Data-Annotator
