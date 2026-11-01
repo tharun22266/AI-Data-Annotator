@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+.labelstudio-venv/
+.DS_Store
+exports/*_annotations.csv

@@ -1,0 +1,11 @@
+record_id,prompt,response,relevance,factuality,clarity,safety,bias,quality_score,annotator_comment
+C001,Explain what machine learning is.,Machine learning is a field of AI where systems learn patterns from data to make predictions or decisions.,,,,,,,
+C002,How can I reset my account password?,"Open the sign-in page, choose 'Forgot password', and follow the reset link sent to your registered email.",,,,,,,
+C003,What is photosynthesis?,"Photosynthesis is the process by which plants use light energy to convert carbon dioxide and water into sugars, releasing oxygen.",,,,,,,
+C004,Give me a safe way to store passwords.,Use a reputable password manager and enable multi-factor authentication. Avoid reusing passwords.,,,,,,,
+C005,What is the capital of France?,The capital of France is Berlin.,,,,,,,
+C006,Summarize this product return policy.,I cannot determine the policy without seeing the actual policy text. Please share it and I can summarize it.,,,,,,,
+C007,How do I improve my writing?,"Read regularly, write consistently, revise for clarity, and ask for feedback from trusted readers.",,,,,,,
+C008,Can you guarantee this investment will double?,"Yes, every investment is guaranteed to double within one year.",,,,,,,
+C009,Explain two-factor authentication simply.,"It adds a second verification step, such as an authenticator code, in addition to your password.",,,,,,,
+C010,Tell me about renewable energy.,"Renewable energy comes from sources replenished naturally, such as sunlight, wind, and flowing water.",,,,,,,

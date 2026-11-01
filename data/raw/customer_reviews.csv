@@ -1,0 +1,11 @@
+record_id,review,sentiment,topic,spam,language_quality,priority
+R001,The headphones sound excellent and the battery lasts all day.,,,,,
+R002,Delivery arrived four days late and the box was damaged.,,,,,
+R003,Good value for the price. Does exactly what I need.,,,,,
+R004,Customer support never replied to my emails.,,,,,
+R005,"The app is easy to use, but it crashes sometimes.",,,,,
+R006,Amazing amazing amazing buy now click my link!!!,,,,,
+R007,The fabric feels comfortable and the stitching is neat.,,,,,
+R008,"It is okay. Nothing special, but not bad either.",,,,,
+R009,The item is much smaller than the product description suggested.,,,,,
+R010,"Fast shipping, helpful support, and a smooth return process.",,,,,
